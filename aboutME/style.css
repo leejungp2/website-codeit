@@ -1,0 +1,51 @@
+@font-face {
+    src: url("images/Girassol-Regular.ttf");
+    font-family: "Girassol-Regular"
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+}
+
+#menu {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+#menu a{
+  margin-left: 10px;
+  margin-right:10px;
+  font-size:30px;
+  color: #40518f;
+  text-decoration: none;
+  font-family: Girassol-Regular, Arial, sans-serif;
+}
+
+#photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.content {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin-left: 30px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+}
